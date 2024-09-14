@@ -1,0 +1,162 @@
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/appsettings.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.exe
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.deps.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.runtimeconfig.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.pdb
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/AspNetCore.Identity.MongoDbCore.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/DnsClient.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDbGenericRepository.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/Snappier.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfo.cs
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.NomuBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.build.NomuBackend.props
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NomuBackend.props
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NomuBackend.props
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/scopedcss/bundle/NomuBackend.styles.css
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBack.F6A53C5B.Up2Date
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/refint/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.pdb
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.genruntimeconfig.cache
+C:/Users/user/Desktop/Nomu-login/NomuBackend/NomuBackend/obj/Debug/net8.0/ref/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/appsettings.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.exe
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.deps.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.runtimeconfig.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.pdb
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/AspNetCore.Identity.MongoDbCore.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/DnsClient.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDbGenericRepository.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Snappier.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfo.cs
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.NomuBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.build.NomuBackend.props
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NomuBackend.props
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NomuBackend.props
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/scopedcss/bundle/NomuBackend.styles.css
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBack.F6A53C5B.Up2Date
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/refint/NomuBackend.dll
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.pdb
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.genruntimeconfig.cache
+C:/Users/user/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/ref/NomuBackend.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.AssemblyReference.cache
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfoInputs.cache
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfo.cs
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.CoreCompileInputs.cache
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.sourcelink.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/refint/NomuBackend.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.pdb
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/appsettings.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.exe
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.deps.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.runtimeconfig.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/NomuBackend.pdb
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/AspNetCore.Identity.MongoDbCore.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/DnsClient.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/MongoDbGenericRepository.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Snappier.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.NomuBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.build.NomuBackend.props
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NomuBackend.props
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NomuBackend.props
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/scopedcss/bundle/NomuBackend.styles.css
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBack.F6A53C5B.Up2Date
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.genruntimeconfig.cache
+C:/Users/musab/Desktop/Nomu-Backend-master/NomuBackend/NomuBackend/obj/Debug/net8.0/ref/NomuBackend.dll
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.AssemblyReference.cache
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfoInputs.cache
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfo.cs
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.CoreCompileInputs.cache
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.dll
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/refint/NomuBackend.dll
+/Users/ameerjalo/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.pdb
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.AssemblyReference.cache
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfoInputs.cache
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.AssemblyInfo.cs
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.csproj.CoreCompileInputs.cache
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.dll
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/refint/NomuBackend.dll
+C:/Mac/Home/Desktop/Nomu-Backend-master 3/NomuBackend/NomuBackend/obj/Debug/net8.0/NomuBackend.pdb

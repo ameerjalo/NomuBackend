@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u1ESNNg5Sp495gEH+E+ON9BrOC4k99reHvgq3QWI0hw=",
+  "Source": "NomuBackend",
+  "BasePath": "_content/NomuBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
